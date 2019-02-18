@@ -2,7 +2,6 @@
 title: Marcus's Battle Royale
 email: zhm1620@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-所思所想，所作所为。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://marcusvvv.github.io" # the base hostname & protocol for your site
 
